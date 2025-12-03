@@ -48,8 +48,6 @@ Excel — data cleaning, formatting, pivot tables
 SQL — exploratory queries and fraud analytics
 
 Power BI — dashboard creation & fraud insights
-
-📂 Project Structure
 FinTech-Fraud-Analysis/
 │
 ├── data/
